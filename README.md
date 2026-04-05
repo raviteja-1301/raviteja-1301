@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raviteja Buchaiahgari
 - 👀 I’m interested in Software Development and Data Science
-- 🌱 I’m currently learning Javascript frameworks
+- 🌱 I’m currently learning AI Agents and Orchestration
 
 
 <!---
